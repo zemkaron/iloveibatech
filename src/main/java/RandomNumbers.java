@@ -7,6 +7,6 @@ public class RandomNumbers {
         for(int i =1; i<10; i++) {
             System.out.println(random.nextInt(10) + 10);
         }
-        //dsljdhj
+
     }
 }
