@@ -1,3 +1,5 @@
+package examples;
+
 import java.util.Random;
 
 public class RandomNumbers {

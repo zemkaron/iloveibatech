@@ -1,3 +1,5 @@
+package examples;
+
 public class firstApp {
     //pvsm
     public static void main(String[] args) {
